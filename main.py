@@ -7,6 +7,7 @@ from aqt.qt import sip
 from .config import getUserOption
 
 
+
 def onBrowse(self):
     print("onBrowse")
     search = None
